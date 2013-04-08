@@ -4,6 +4,7 @@ Created on May 03, 2009
 @summary: A Plex Media Server plugin that integrates Google Picasa web albums into the Plex picture container.
 @version: 0.2
 @author: Ian.G
+@author: eygraber
 '''
 
 # Import from Python
