@@ -1,0 +1,81 @@
+{	
+	"PICASA_MENU_TITLE"						: "Picasa",
+
+	"WEB_ALBUM_MENU_ITEM"					: "My Web Albums",
+	
+	"GDATA_CLIENT_NOT_LOGGED_IN_MSG" 		: "You are not logged in to a Google account. You will only be able to see items that are public.",
+
+	"COMMUNITY_MENU_TITLE"					: "Community",
+	"COMMUNITY_MENU_SUMMARY"				: "View photographs from the Picasa community.",
+
+	"COMMUNITY_FEATURED_PHOTOS_TITLE"		: "Featured Photos",
+	"COMMUNITY_FEATURED_PHOTOS_SUMMARY"		: "Shows community photographs currently being featured on Picasa Web Albums.",
+	
+	"COMMUNITY_RECENT_PHOTOS_TITLE"			: "Recent Photos",
+	"COMMUNITY_RECENT_PHOTOS_SUMMARY"		: "Shows photos being uploaded by community users.",
+
+	"SEARCH_TITLE"							: "Search...",
+	
+	"COMMUNITY_SEARCH_SUMMARY"				: "Search The Picasa Web Albums community.",
+	"COMMUNITY_SEARCH_RESULTS"				: "Community Search Results",
+	
+	"MY_SEARCH_SUMMARY"						: "Search your photos.",
+	"MY_SEARCH_RESULTS"						: "Search Results",
+	
+	"FRIEND_SEARCH_SUMMARY"					: "Search %s's photos.",
+	"FRIEND_SEARCH_RESULTS"					: "Search Results",
+		
+	"PREFERENCES_TITLE"						: "Preferences...",
+	"PREFERENCES_SUMMARY"					: "Configure Picasa Web Albums preferences.\n\nIf you wish to view your own gallery and other users galleries you link to you will need to configure your Picasa user details.  You can also control the visibility of your private albums within Plex.",
+	
+	"ABOUT_TITLE"							: "About...",
+
+	"ME_MENU_TITLE"							: "My Gallery",
+	"ME_MENU_SUMMARY"						: "View your albums, photographs and tags.",
+	
+	"FRIEND_MENU_SUMMARY"					: "View %s's albums, photographs, tags and friends.",
+	
+	"MY_ALBUM_LIST_TITLE"					: "My Albums",
+	"MY_ALBUM_LIST_SUMMARY"					: "View your albums.",
+
+	"MY_TAG_LIST_TITLE"						: "My Tags",
+	"MY_TAG_LIST_SUMMARY"					: "View your tags.",
+	
+	"MY_RECENT_PHOTOS_TITLE"				: "My Recent Photos",
+	"MY_RECENT_PHOTOS_SUMMARY"				: "View your recent photos.",
+	
+	"MY_FRIEND_LIST_TITLE"					: "My Friends",
+	"MY_FRIEND_LIST_SUMMARY"				: "View your friends.",
+	
+	"FRIEND_LIST_TITLE"						: "%s's Friends",
+	"FRIEND_LIST_SUMMARY"					: "View %s's friends.",
+	
+	"ALBUM_LIST_TITLE"						: "%s's Albums",
+	"ALBUM_LIST_SUMMARY"					: "View %s's albums.",
+		
+	"TAG_LIST_TITLE"						: "%s's Tags",
+	"TAG_LIST_SUMMARY"						: "View %s's tags.",
+	
+	"RECENT_PHOTOS_TITLE"					: "%s's Recent Photos",
+	"RECENT_PHOTOS_SUMMARY"					: "View %s's recently uploaded photographs",
+	
+	"MESSAGE_NO_USER_SPECIFIED_TITLE"		: "Picasa User Not Defined",
+	"MESSAGE_NO_USER_SPECIFIED_SUMMARY"		: "Please configure your Picasa user on the plugin preferences screen.",
+
+	"MESSAGE_SERVICE_ERROR_TITLE"			: "Picasa Service Error",
+	"MESSAGE_SERVICE_ERROR_SUMMARY"			: "The was a problem with the Picasa service.  Either your login credentials are incorrect, you have no internet connection or the Picasa service is actually down.",
+
+	"MESSAGE_NO_FRIENDS_TITLE"				: "No Friends Found",
+	"MESSAGE_NO_FRIENDS_SUMMARY"			: "User %s has no Friends.",
+	
+	"MESSAGE_NO_TAGS_TITLE"					: "No Tags Found",
+	"MESSAGE_NO_TAGS_SUMMARY"				: "User %s has no tags.",
+	
+	"MESSAGE_NO_ALBUMS_TITLE"				: "No Albums Found",
+	"MESSAGE_NO_ALBUMS_SUMMARY"				: "User %s has no albums.",
+	
+	"MESSAGE_NO_PHOTOS_TITLE"				: "No Photos Found",
+	"MESSAGE_NO_PHOTOS_SUMMARY"				: "No photos were found",
+	
+	"ACTION_VIEW_TAG_SUMMARY"				: "View all photographs with the tag '%s'" 
+}

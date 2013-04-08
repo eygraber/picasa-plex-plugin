@@ -1,0 +1,30 @@
+[
+	{
+    	"id": "username",
+    	"type":	"text",
+    	"label": "Google/Picasa Username"
+    },
+    {
+    	"id" : "password",
+    	"type":	"text",
+    	"label": "Google/Picasa Password",
+    	"option": "hidden"
+    },
+    {
+    	"id": "showprivatealbums",
+    	"type":	"bool",
+		"label": "Show my private albums"
+	},
+	{
+    	"id": "showphotosummary",
+    	"type":	"bool",
+		"label": "Show summary information on photographs"
+	},
+	{
+		"id": "sortalbumby",
+		"label": "Sort Albums By:",
+		"type": "enum",
+		"values": ["Album Name Descending", "Album Name Ascending", "Album Date Descending", "Album Date Ascending"],
+		"default": "Album Name Descending"
+	}
+]
